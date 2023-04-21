@@ -1,0 +1,60 @@
+body {
+    margin: 0px;
+}
+
+.bg-container {
+    max-width: 800px !important;
+    background-color: #ff5050;
+}
+
+.icon {
+    width: 64px;
+    height: 64px;
+    text-align: center;
+    border: 3px solid;
+    border-radius: 32px;
+    line-height: 64px;
+
+}
+
+.icon-bg-blue {
+    background-color: blue;
+}
+
+.section-devider-bt {
+    border-bottom: 3px solid darkblue;
+}
+
+.circle {
+    width: 10px;
+    height: 10px;
+    border-radius: 5px;
+    display: inline-block;
+    margin: 5px;
+}
+
+.blue-bg {
+    background-color: darkblue;
+}
+
+.section-devider-rt {
+    border-right: 3px solid darkblue;
+}
+
+.para {
+    font-family: "Roboto";
+
+}
+
+.gap {
+    gap: 40px
+}
+
+.icon-white {
+    color: white;
+}
+
+.font-color {
+    font-family: "Roboto";
+    font-weight: bold;
+}
